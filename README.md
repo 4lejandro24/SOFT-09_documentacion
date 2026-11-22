@@ -1,2 +1,2 @@
-# SOFT-09-_documentacion-
+# SOFT-09-documentacion
 Practica #2 Intro Ing de Software
