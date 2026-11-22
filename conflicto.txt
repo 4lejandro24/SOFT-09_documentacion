@@ -1,1 +1,1 @@
-Estado: pendiente
+Estado: revisado en la rama principal
