@@ -1,0 +1,12 @@
+name: Practica GitHub Actions
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  saludo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mostrar mensaje
+        run: echo "La acción de la práctica se ejecutó correctamente."
